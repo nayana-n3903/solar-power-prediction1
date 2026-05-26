@@ -1,11 +1,11 @@
-# ☀️ Solar Power Prediction
+#  Solar Power Prediction
 
-## 📌 Overview
+##  Overview
 This project applies **machine learning** to predict solar power output using historical weather and energy data. It demonstrates end‑to‑end data science skills: preprocessing, feature engineering, model building, and performance evaluation — making it a strong portfolio project for renewable energy and AI applications.
 
 ---
 
-## 🚀 Features
+##  Features
 - **Data Cleaning & Preparation**: Handles raw solar and weather datasets, removes inconsistencies, and prepares structured inputs.  
 - **Exploratory Data Analysis (EDA)**: Visualizes solar energy trends, correlations, and seasonal patterns.  
 - **Feature Engineering**: Builds predictors such as temperature, humidity, irradiance, and time‑based features.  
@@ -15,14 +15,14 @@ This project applies **machine learning** to predict solar power output using hi
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Languages**: Python  
 - **Libraries**: Pandas, NumPy, Scikit‑Learn, Matplotlib, Seaborn, linear Regression 
 - **Tools**: Jupyter Notebook, GitHub, Tableau (for visualization)  
 
 ---
 
-## 📊 Workflow
+## Workflow
 1. **Data Ingestion** → Import raw solar & weather datasets  
 2. **Preprocessing** → Handle missing values, normalize features  
 3. **EDA** → Generate plots & statistical summaries  
@@ -32,18 +32,18 @@ This project applies **machine learning** to predict solar power output using hi
 
 ---
 
-## 📈 Results
+##  Results
 - Achieved **high prediction accuracy** with Linear regression models.  
 - Visual dashboards highlight **daily and seasonal solar output trends**.  
 - Demonstrates potential for **renewable energy optimization** in smart grids.  
 
 ---
 
-## 🎯 Use Cases
+## Use Cases
 - **Energy Companies**: Forecast solar output for grid management.  
 - **Smart Homes**: Optimize solar panel usage and battery storage.  
 - **Research**: Benchmark renewable energy prediction models.  
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
