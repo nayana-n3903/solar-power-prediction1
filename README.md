@@ -18,7 +18,7 @@ This project applies **machine learning** to predict solar power output using hi
 ##  Tech Stack
 - **Languages**: Python  
 - **Libraries**: Pandas, NumPy, Scikit‑Learn, Matplotlib, Seaborn, linear Regression 
-- **Tools**: Jupyter Notebook, GitHub, Tableau (for visualization)  
+- **Tools**: Jupyter Notebook, GitHub
 
 ---
 
